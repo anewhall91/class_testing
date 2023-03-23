@@ -1,11 +1,7 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Spyder Editor
 
-@author: cclapp
+This is a temporary script file.
 """
-
-print("Hello, World!!!")
-
-print("No more math.")
-
+print("Hello world")
